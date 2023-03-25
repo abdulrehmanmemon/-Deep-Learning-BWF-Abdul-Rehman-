@@ -1,0 +1,7 @@
+Use variables to store data and manipulate them with various operations.
+Use functions to break down complex tasks into smaller, reusable parts.
+Work with different data structures like lists, tuples, sets, and dictionaries.
+Use control flow statements like if-else, while, and for loops to execute code conditionally or repeatedly.
+Import modules and use their pre-defined functions and classes to extend Python's capabilities.
+Use exceptions to handle errors and unexpected behavior in your code.
+Write object-oriented code using classes and objects to model real-world concepts.
